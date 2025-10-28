@@ -13,7 +13,7 @@
 
 ## 🧭 Overview
 
-A fully responsive, **Jekyll-powered portfolio and blog** featuring:
+A fully responsive **Jekyll-powered portfolio and blog** featuring:
 - ⚙️ **Full-Stack projects** and DevOps automation work  
 - ✍️ A **personal blog** for devlogs, book notes, and experiments  
 - 📚 A categorized **Library** of books on theory, languages, methodologies, and more
